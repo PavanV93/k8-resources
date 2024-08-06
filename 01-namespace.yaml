@@ -1,7 +1,7 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: expense
+  name: practice
   labels:
     name: docker
     environment: dev
