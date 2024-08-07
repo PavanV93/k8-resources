@@ -19,8 +19,10 @@ spec:
       labels:
         tier: frontend
         app: nginx
-        project: some-project
+        project: k8-project
     spec:
       containers:
       - name: nginx
         image: nginx:stable-perl
+
+        
